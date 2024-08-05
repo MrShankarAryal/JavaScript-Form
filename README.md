@@ -8,11 +8,6 @@
 
 A sleek and user-friendly web-based form with robust client-side validation using HTML, CSS, and JavaScript.
 
-![Form Screenshot](https://placeholder-image-url.com/form-screenshot.png)
-
-A sleek and user-friendly web-based form with robust client-side validation using HTML, CSS, and JavaScript.
-
-![Form Screenshot](https://placeholder-image-url.com/form-screenshot.png)
 
 ## 🚀 Features
 
