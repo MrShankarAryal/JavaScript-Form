@@ -1,0 +1,36 @@
+body{
+    background-color: cadetblue;
+ }
+ fieldset{
+     margin: 50px 50px 100px 450px;
+     padding: 50px 50px 50px 50px;
+     width: 450px;
+     background-color:whitesmoke;
+     border-radius: 25px; 
+ }
+ form{
+     font-size: 18px;
+    font-weight: bold;
+    color: blue;   
+   }
+
+input[type="radio"]{
+ margin-left: 15px;
+}
+input[type="text"],input[type="email"],input[type="password"],input[type="number"]{
+width:250px;
+height: 30px;
+margin-left:15px ;
+}
+input[type="submit"]{
+ width: 100px;
+ height: 50px;
+ margin-left:180px ;
+ background-color: cadetblue;
+ border-radius: 19px ;
+ font-size: 15px;
+}
+input[type="submit"]:hover{
+     background-color: yellow;
+    cursor: pointer;
+}
